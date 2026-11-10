@@ -7,8 +7,6 @@
 **👉 Try it now: https://az.happybap.abrdns.com/az/**
 *(If an in-app browser blocks the link, copy it into a regular browser tab.)*
 
-![AutoZoom icon](assets/az-icon-512.png)
-
 ## What is AutoZoom?
 
 AutoZoom is a browser screen recorder that auto-zooms following your clicks.
@@ -53,7 +51,7 @@ Checkout on the website is **Polygon USDC only**. Orders are matched by exact am
 
 - **Live product:** https://az.happybap.abrdns.com/az/
 - **This repo:** landing / introduction page for AutoZoom — the product itself runs at the live link above, not from this repository.
-- Screenshots: see `assets/` and the gallery frames in this repo.
+- Screenshots and a live demo are on the product page linked above.
 
 ## FAQ
 
