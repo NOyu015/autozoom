@@ -17,6 +17,20 @@ You record your screen in a browser tab. While you record, AutoZoom tracks your 
 
 **Search terms this tool matches:** free screen recorder online, screen recorder no install, browser screen recorder, screen recording with auto zoom, automatic zoom screen recorder, tutorial video maker, screen recorder for Chromebook, screen recorder for Windows and Mac, Screen Studio alternative, Cap alternative, Loom-style recorder with zoom.
 
+## Screenshot
+
+![AutoZoom screenshot](assets/frame-15.5.png)
+
+AutoZoom in action — the recorder follows your clicks with smooth auto-zoom.
+
+## Quick start
+
+
+1. Open https://az.happybap.abrdns.com/az/ in Chrome or Edge.
+2. Click Record and pick the screen, window or tab to capture.
+3. Do your demo — AutoZoom tracks your clicks as you go.
+4. Stop recording and export your video.
+
 ## Why it exists
 
 - **Screen Studio** is polished, but Mac-only and now $29/mo subscription.
